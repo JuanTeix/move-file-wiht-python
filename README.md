@@ -72,4 +72,4 @@ Este proyecto está licenciado bajo la Licencia MIT.
 Este README proporciona una descripción del proyecto, los requisitos previos, instrucciones para comenzar, cómo utilizar el microservicio, información sobre los puntos finales de la API, instrucciones para contribuir y la licencia del proyecto. Asegúrate de personalizarlo según tus necesidades y agregar más detalles sobre el funcionamiento del microservicio si es necesario.
 
 
-⌨️ con ❤️ por Juan Teixeira 😊
+⌨️ con ❤️ por JTeixCode 😊
