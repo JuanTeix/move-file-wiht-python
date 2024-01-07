@@ -4,6 +4,11 @@
 
 El Microservicio de Transferencia de Archivos es una aplicación Python simple construida con Flask, diseñada para mover archivos de una carpeta a otra. Este microservicio proporciona una forma conveniente de automatizar el proceso de transferencia de archivos entre directorios.
 
+## Importante
+Para que te pueda funcionar, debes añadir 2 carpetas en tu escritorio.
+- /File_IN
+- /File_OUT
+
 ## Tabla de Contenidos
 
 - [Requisitos Previos](#requisitos-previos)
