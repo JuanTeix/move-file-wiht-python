@@ -33,7 +33,7 @@ Para comenzar con el Microservicio de Transferencia de Archivos, sigue estos pas
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-nombre/move-file-wiht-python.git
+   git clone https://github.com/JuanTeix/move-file-wiht-python.git
 
 2. Cambia al directorio del proyecto:
    ```bash
